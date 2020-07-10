@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./images/logo.png">
+    <img src="https://raw.githubusercontent.com/Jaezmien/Jaezmien/master/images/logo.png">
     <h2>Jaezmien Naejara</h2>
 </div>
 

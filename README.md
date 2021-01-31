@@ -12,7 +12,7 @@ Hi! I'm Jaezmien and I like to code.
 
 - 🖥 [Website](https://melody.heysora.net/)
 - ▶ [Youtube](https://www.youtube.com/channel/UCTXYVbsNeYEZfYEv6YaWc8A)
-- 🐦[Twitter](https://twitter.com/home)
+- 🐦[Twitter](https://twitter.com/jaezmien)
 
 <br><br>
 ❤ 🐄 ❤

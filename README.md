@@ -10,7 +10,7 @@ Hi! I'm Jaezmien and I like to code.
 
 #### Links
 
-- 🖥 [Website](https://melody.heysora.net/)
+- 🖥 [Website](https://jaezmien.heysora.net/)
 - ▶ [Youtube](https://www.youtube.com/channel/UCTXYVbsNeYEZfYEv6YaWc8A)
 - 🐦[Twitter](https://twitter.com/jaezmien)
 

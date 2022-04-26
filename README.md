@@ -1,33 +1,31 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Jaezmien/Jaezmien/master/images/logo.png">
-    <h2>Jaezmien Naejara</h2>
+
+<img src="https://raw.githubusercontent.com/Jaezmien/Jaezmien/master/images/logo.png">
+<h1>Jaezmien V. Naejara</h1>
+
+<br/>
+	
+```bash
+$ echo "Moo!~"
+```
+	
+<br/>
+	
+<div>
+	<a href="https://jaezmien.heysora.net">
+		<img src="https://img.shields.io/badge/%F0%9F%8C%90%20Website-jaezmien.heysora.net-ffd80e?style=flat-square">    
+	</a>	
+	<a href="https://www.youtube.com/channel/UCTXYVbsNeYEZfYEv6YaWc8A">
+		<img src="https://img.shields.io/badge/Youtube-Vinyl Melody-f00?style=flat-square&logo=youtube">    
+	</a>	
+	<a href="https://twitter.com/jaezmien">
+		<img src="https://img.shields.io/badge/Twitter-@Jaezmien-1DA1F2?style=flat-square&logo=twitter">    
+	</a>	
 </div>
 
-Hi! I'm Jaezmien and I like to code.
-
-🐮❓ - Pronouns: Any
-
-
-#### Links
-
-- 🖥 [Website](https://jaezmien.heysora.net/)
-- ▶ [Youtube](https://www.youtube.com/channel/UCTXYVbsNeYEZfYEv6YaWc8A)
-- 🐦[Twitter](https://twitter.com/jaezmien)
-
-<br><br>
+<br/>
+	
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaezmien&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+	
 ❤ 🐄 ❤
-
-<!--
-**Jaezmien/Jaezmien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>

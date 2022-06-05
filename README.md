@@ -12,8 +12,8 @@ $ echo "Moo!~"
 <br/>
 	
 <div>
-	<a href="https://jaezmien.heysora.net">
-		<img src="https://img.shields.io/badge/%F0%9F%8C%90%20Website-jaezmien.heysora.net-ffd80e?style=flat-square">    
+	<a href="https://jaezmien.github.io">
+		<img src="https://img.shields.io/badge/%F0%9F%8C%90%20Website-jaezmien.github.io-ffd80e?style=flat-square">    
 	</a>	
 	<a href="https://www.youtube.com/channel/UCTXYVbsNeYEZfYEv6YaWc8A">
 		<img src="https://img.shields.io/badge/Youtube-Vinyl Melody-f00?style=flat-square&logo=youtube">    

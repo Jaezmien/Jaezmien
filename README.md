@@ -6,21 +6,24 @@
 <br/>
 	
 ```bash
-$ echo "Moo!~"
+$ echo "🐮 Moo!~"
 ```
 	
 <br/>
 	
 <div>
 	<a href="https://jaezmien.github.io">
-		<img src="https://img.shields.io/badge/%F0%9F%8C%90%20Website-jaezmien.github.io-ffd80e?style=flat-square">    
+		<img src="https://img.shields.io/badge/%F0%9F%8C%90%20Website-jaezmien.github.io-4a4547?style=flat-square">    
 	</a>	
 	<a href="https://www.youtube.com/channel/UCTXYVbsNeYEZfYEv6YaWc8A">
 		<img src="https://img.shields.io/badge/Youtube-Vinyl Melody-f00?style=flat-square&logo=youtube">    
 	</a>	
 	<a href="https://twitter.com/jaezmien">
 		<img src="https://img.shields.io/badge/Twitter-@Jaezmien-1DA1F2?style=flat-square&logo=twitter">    
-	</a>	
+	</a>
+	<a href="https://cohost.org/jaezmien">
+		<img src="https://img.shields.io/badge/👨‍💻 Cohost-@Jaezmien-83254F?style=flat-square">    
+	</a>
 </div>
 
 <br/>

@@ -17,6 +17,11 @@ Hi! My name is Jaezmien Naejara, and I like doing various stuffs. But on this we
 - [📖 Bookshelf](https://github.com/Jaezmien/Bookshelf), a PWA-enabled reader for FiMFiction stories.
 - [🎈 Pinkie Run](https://github.com/Jaezmien/pinkie-run), a tiny game written in UXN.
 
+### 📦 Some of my NodeJS Libraries!
+- [fimfic-parser](https://github.com/Jaezmien/fimfic-parser)
+- [file-data-base](https://github.com/Jaezmien/fdb)
+- [http-status-code](https://github.com/Jaezmien/hsc)
+
 <hr>
 
 <div align="center">
